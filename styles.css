@@ -1,4 +1,5 @@
 body {
+  overflow: hidden;
   background: radial-gradient(
     circle at 0.2% 0.5%,
     rgb(252, 165, 241) 0%,
