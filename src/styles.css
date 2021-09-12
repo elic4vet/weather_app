@@ -1,0 +1,96 @@
+body {
+  background: radial-gradient(
+    circle at 0.2% 0.5%,
+    rgb(252, 165, 241) 0%,
+    rgb(181, 255, 255) 100.2%
+  );
+  background-size: auto;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+}
+
+h1 {
+  color: #7bf4ff;
+}
+h2 {
+  color: #d979e6;
+}
+
+h3 {
+  font-size: 20px;
+}
+h4 {
+  text-align: center;
+  color: #bc7ae9;
+  font-size: 20px;
+}
+
+.card {
+  border-radius: 20px;
+  box-shadow: 0px 8px 16px 4px#dbb9e2;
+  position: relative;
+}
+
+form {
+  text-align: center;
+  border-radius: 20px;
+}
+
+i,
+button {
+  text-align: center;
+  background: radial-gradient(
+    circle at 0.2% 0.5%,
+    rgb(252, 165, 241) 0%,
+    rgb(181, 255, 255) 100.2%
+  );
+  border-radius: 20px;
+}
+
+.cloud {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-title {
+  color: #e86ed0;
+  text-align: center;
+}
+
+a {
+  font-size: 15px;
+  color: #7bf4ff;
+}
+
+city-input {
+  text-align: center;
+}
+
+.container {
+  max-width: 460px;
+  border-radius: 20px;
+}
+
+.location {
+  text-align: center;
+  border-radius: 10px;
+  background: radial-gradient(
+    circle at 0.2% 0.5%,
+    rgb(252, 165, 241) 0%,
+    rgb(181, 255, 255) 100.2%
+  );
+}
+
+search-button {
+  text-align: center;
+  background: radial-gradient(
+    circle at 0.2% 0.5%,
+    rgb(252, 165, 241) 0%,
+    rgb(181, 255, 255) 100.2%
+  );
+  border-radius: 20px;
+}
