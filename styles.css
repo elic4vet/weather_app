@@ -1,11 +1,11 @@
 body {
   overflow: hidden;
   background: radial-gradient(
-      circle at 0.2% 0.5%,
-      rgb(252, 165, 241) 0%,
-      rgb(181, 255, 255) 100.2%
-    )
-    repeat-x;
+    circle at 0.2% 0.5%,
+    rgb(252, 165, 241) 0%,
+    rgb(181, 255, 255) 100.2%
+  );
+  background-size: cover;
   border-radius: 20px;
   text-align: center;
   font-family: "Dancing Script", cursive;
